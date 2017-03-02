@@ -1,5 +1,4 @@
-MVC Sederhana
-=============
+# MVC Sederhana
 
 Install
 
@@ -7,14 +6,18 @@ Install
 2. Install Composer ( https://getcomposer.org/ ) kalau belum
 3. buka command prompt / terminal dan masuk folder mvc, lalu running:
 
+```sh
 $ composer install
+```
 
-4. akses website di http://localhost/mvc/public_html/
+akses website di
 
+```sh
+http://localhost/mvc/public_html/
+```
 
-WebHade Creative Free Course
-============================
+#### WebHade Creative Free Course
 
 Pelatihan Membuat Website Gratis
 
-informasi lengkap kunjungi [http://webhade.id/freecourse/]
+informasi lengkap kunjungi [ http://webhade.id/freecourse/ ]
