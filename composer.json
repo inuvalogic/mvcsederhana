@@ -1,0 +1,8 @@
+{
+	"autoload" : {
+        "classmap" : ["app/"],
+        "psr-4" : {
+            "Mvc\\" : "app/"
+        }
+    }
+}
